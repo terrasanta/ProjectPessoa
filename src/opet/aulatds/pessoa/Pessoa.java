@@ -3,7 +3,7 @@ package opet.aulatds.pessoa;
 import java.util.Date;
 
 /**
- * 
+ * Classe Pessoa que representará uma pessoa no mundo real
  * @author Israel Block
  * @version 1.0.0
  * @since 21 de Agosto de 2017
